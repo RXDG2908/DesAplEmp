@@ -70,4 +70,4 @@ python manage.py runserver
 
 ## Autor
 
-Bestard Aroche, Yunior
+Renzo León
