@@ -1,0 +1,11 @@
+﻿FALTA ESTA CAPTURA â€” la tienes que tomar tÃº (requiere iniciar sesiÃ³n).
+
+1. Levanta el servidor:
+     cd "D:\DAE\Semana 1\django_project\src"
+     ..\venv\Scripts\activate
+     python manage.py runserver
+2. Entra a http://127.0.0.1:8000/admin/
+3. Usuario: admin    ContraseÃ±a: admin12345
+4. Abre CatÃ¡logo > Items y captura la lista con los dos Ã­tems.
+5. Guarda la imagen aquÃ­ con el nombre:
+     Ej08_4_admin_lista_items.png
